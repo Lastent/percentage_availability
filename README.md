@@ -1,7 +1,4 @@
-# percentage_availability
-A plugin for Moodle for percentage availability.
-=======
-# Availability Condition: Percentage Completion (percen)
+# Availability Condition: Percentage Completion (percentage)
 
 A Moodle availability condition plugin that restricts access to activities based on the percentage of students who have completed another activity.
 
